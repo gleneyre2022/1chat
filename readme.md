@@ -1,5 +1,7 @@
 # 1chat
 
+[English](readme.md) | [中文](readme_cn.md)
+
 1chat is an iOS app that lets you chat with the DeepSeek-R1 model locally.
 
 Designed with privacy and security in mind, 1chat requires no internet connection or special permissions. It runs entirely on-device with an integrated model, ready to use right out of the box.

@@ -1,5 +1,7 @@
 # 1chat  
 
+[English](readme.md) | [中文](readme_cn.md)
+
 1chat 是一款 iOS 应用，可以在本地与 DeepSeek-R1 模型进行对话。  
 
 1chat 注重隐私和安全性，无需联网或额外权限。应用完全在设备上运行，内置模型，开箱即用。  
