@@ -47,6 +47,6 @@ Pods/
 *.xcworkspace
 
 # model
-*.safetensors
-model/*
+model/*.safetensors
+model/*.json
 
