@@ -1,5 +1,7 @@
 # 1chat  
 
+![1chat_image](/doc/assets/1chat_cn.jpg)
+
 [English](readme.md) | [中文](readme_cn.md)
 
 1chat 是一款 iOS 应用，可以在本地与 DeepSeek-R1 模型进行对话。  
